@@ -18,11 +18,11 @@
 
 1. cartPole-v0_configuration 
 	
-This file contains the important hyperparameters required for NEAT. The file can be modified as a regular text file.
+	This file contains the important hyperparameters required for NEAT. The file can be modified as a regular text file.
 
 2. Execute the file by typing the following command in the working directory.
 
-`python cartpole-neat.py'
+	`python cartpole-neat.py'
 
 
 ## Working
